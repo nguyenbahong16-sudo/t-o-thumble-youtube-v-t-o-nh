@@ -1,0 +1,5 @@
+{
+  "name": "Trình tạo và chỉnh sửa Thumbnail AI",
+  "description": "Một ứng dụng web để tạo thumbnail mới dựa trên hình ảnh tham chiếu và chỉnh sửa chúng bằng các câu lệnh văn bản, sử dụng Gemini API.",
+  "requestFramePermissions": []
+}
